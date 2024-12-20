@@ -1,9 +1,9 @@
 # Data analyst
 Data Science and Innovation Projects
 
-### Education
-Third year in B.Sc. (Data Science and Innovation)
-current G.P.A. - 3.61 
+## Education
+- Third year in B.Sc. (Data Science and Innovation)
+- Current G.P.A. - 3.61 
 
 ### Skills
 - Programming Languages: Python (Pandas, NumPy, Matplotlib, Regex), SQL
@@ -14,7 +14,7 @@ current G.P.A. - 3.61
 - Other: Strong presentation and teaching skills (As a former teacher assistant, I experience teaching juniors)
 
 ### Projects
-Analysis of drug Problem in Thailand
+**Analysis of drug Problem in Thailand**
 - August to December 2024
 - Gather and Scrape data from governance website using Selenium
 - Cleaned and validated data using Python libraries like pandas
@@ -23,7 +23,7 @@ Analysis of drug Problem in Thailand
 - Created visualizations to illustrate trends and provide actionable insights using Matplotlib and Power BI
 
 ### Work Experinces
-Teacher Assistant for Data science major @ Thammasat University
+**Teacher Assistant for Data science major @ Thammasat University**
 - August to December 2024
 - Provided one-on-one guidance to students, helping them understand assignments, improve performance
 - Collaborated with the professor and students to ensure consistency in course delivery and assessment criteria
