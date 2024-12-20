@@ -2,7 +2,7 @@
 Data Science and Innovation Projects
 
 ### Education
-Third year - B.Sc. (Data Science and Innovation)
+Third year in B.Sc. (Data Science and Innovation)
 current G.P.A. - 3.61 
 
 ### Skills
