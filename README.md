@@ -29,7 +29,7 @@ Data Science and Innovation Projects
 - Collaborated with the professor and students to ensure consistency in course delivery and assessment criteria
 - Reviewed and debugged student code to ensure accuracy and adherence to best practices
 
-Alumni LinkedIn group advisor
+**Alumni LinkedIn group advisor**
 - October 2024
 - Recommend effective features for creating and managing a LinkedIn group to connect alumni
 - Advising on data scraping techniques to gather alumni information, such as career progression, educational background
