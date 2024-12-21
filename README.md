@@ -35,9 +35,8 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
    ![EEG Band Discovery](/assets/25.png)
    ![EEG Band Discovery](/assets/26.png)
 
-#### Colab
-![This is the link to my colab]
-(https://colab.research.google.com/drive/1pC27AtvC3w-bJndHnob9Kl1XNFbhA7Yv?usp=sharing)
+#### This is the link to my colab
+[colab](https://colab.research.google.com/drive/1pC27AtvC3w-bJndHnob9Kl1XNFbhA7Yv?usp=sharing)
   
 ### Work Experiences
 **Teacher Assistant for Data Science major @ Thammasat University**
