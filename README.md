@@ -25,11 +25,13 @@ Data Science and Innovation Projects
 Work Flow
 ![EEG Band Discovery](/assets/9.png)
 After we chose the most suitable model, The main goals is to surpress, cure, and prevent
-1. Surpress
+**Provide actionalble plan**
+1. Surpress:
    ![EEG Band Discovery](/assets/19.png)
-3. Cure
+   ![EEG Band Discovery](/assets/20.png)
+3. Cure:
    ![EEG Band Discovery](/assets/22.png)
-4. Prevent
+4. Prevent:
    ![EEG Band Discovery](/assets/25.png)
    ![EEG Band Discovery](/assets/26.png)
   
