@@ -2,27 +2,28 @@
 Data Science and Innovation Projects
 
 ## Education
-- Third year in B.Sc. (Data Science and Innovation)
+- B.Sc. Data Science and Innovation (2022-2026)
 - Current G.P.A. - 3.61 
 
 ### Skills
-- Programming Languages: Python (Pandas, NumPy, Matplotlib, Regex), SQL
-- Data Visualization: Matplotlib, Tableau, Seaborn, Power BI, Looker
-- Data Handling: Proficient in VS Code, Google Colab, Jupyter Notebook, Excel
-- Analysis Techniques: Time series modeling, trend analysis, data validation, forecasting
-- Web Scraping: Beautiful Soup, Selenium
-- Other: Strong presentation and teaching skills (As a former teacher assistant, I've experience teaching juniors)
+- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Regex), SQL
+- **Data Visualization:** Matplotlib, Tableau, Seaborn, Power BI, Looker
+- **Data Handling:** Proficient in VS Code, Google Colab, Jupyter Notebook, Excel
+- **Analysis Techniques:** Time series modeling, trend analysis, data validation, forecasting
+- **Web Scraping:** Beautiful Soup, Selenium
+- **Other:** Strong presentation and teaching skills
 
 ### Projects
 **Analysis of drug Problem in Thailand**
 - August to December 2024
-- Gather and Scrape data from governance websites using Selenium
-- Cleaned and validated data using Python libraries like pandas
+- Gather and Scrape data from governance websites using **Selenium**
+- Cleaned and validated data using Python libraries like **pandas**
 - Analyzed provincial drug-related data to forecast treatment needs by 2569 (2026)
 - Developed data-driven insights to support resource allocation and policy planning
-- Created visualizations to illustrate trends and provide actionable insights using Matplotlib and Power BI
+- Created visualizations to illustrate trends and provide actionable insights using **Matplotlib** and **Looker**
 
 Work Flow
+
 ![EEG Band Discovery](/assets/9.png)
 After we chose the most suitable model, The main goals are to suppress, cure, and prevent
 **Provide actionable plan**
