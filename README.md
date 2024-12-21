@@ -11,12 +11,12 @@ Data Science and Innovation Projects
 - Data Handling: Proficient in VS Code, Google Colab, Jupyter Notebook, Excel
 - Analysis Techniques: Time series modeling, trend analysis, data validation, forecasting
 - Web Scraping: Beautiful Soup, Selenium
-- Other: Strong presentation and teaching skills (As a former teacher assistant, I experience teaching juniors)
+- Other: Strong presentation and teaching skills (As a former teacher assistant, I've experience teaching juniors)
 
 ### Projects
 **Analysis of drug Problem in Thailand**
 - August to December 2024
-- Gather and Scrape data from governance website using Selenium
+- Gather and Scrape data from governance websites using Selenium
 - Cleaned and validated data using Python libraries like pandas
 - Analyzed provincial drug-related data to forecast treatment needs by 2569 (2026)
 - Developed data-driven insights to support resource allocation and policy planning
@@ -24,8 +24,8 @@ Data Science and Innovation Projects
 
 Work Flow
 ![EEG Band Discovery](/assets/9.png)
-After we chose the most suitable model, The main goals is to surpress, cure, and prevent
-**Provide actionalble plan**
+After we chose the most suitable model, The main goals are to suppress, cure, and prevent
+**Provide actionable plan**
 1. Surpress:
    ![EEG Band Discovery](/assets/19.png)
    ![EEG Band Discovery](/assets/20.png)
@@ -35,8 +35,8 @@ After we chose the most suitable model, The main goals is to surpress, cure, and
    ![EEG Band Discovery](/assets/25.png)
    ![EEG Band Discovery](/assets/26.png)
   
-### Work Experinces
-**Teacher Assistant for Data science major @ Thammasat University**
+### Work Experiences
+**Teacher Assistant for Data Science major @ Thammasat University**
 - August to December 2024
 - Provided one-on-one guidance to students, helping them understand assignments, improve performance
 - Collaborated with the professor and students to ensure consistency in course delivery and assessment criteria
