@@ -22,6 +22,8 @@ Data Science and Innovation Projects
 - Developed data-driven insights to support resource allocation and policy planning
 - Created visualizations to illustrate trends and provide actionable insights using Matplotlib and Power BI
 
+![EEG Band Discovery](/assetes/9.png)
+
 ### Work Experinces
 **Teacher Assistant for Data science major @ Thammasat University**
 - August to December 2024
