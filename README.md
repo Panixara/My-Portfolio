@@ -14,27 +14,25 @@ Data Science and Innovation Projects
 - **Other:** Strong presentation and teaching skills
 
 ### Projects
-**Analysis of drug Problem in Thailand**
-- August to December 2024
-- Gather and Scrape data from governance websites using **Selenium**
-- Cleaned and validated data using Python libraries like **pandas**
-- Analyzed provincial drug-related data to forecast treatment needs by 2569 (2026)
-- Developed data-driven insights to support resource allocation and policy planning
-- Created visualizations to illustrate trends and provide actionable insights using **Matplotlib** and **Looker**
+**Analysis of drug Problem in Thailand** (Aug-Dec 2024)
+- **Forecasted treatment needs** for rehabilitation centers by analyzing nationwide drug-related data for 2026 capacity planning
+- Cleaned, transformed, and analyzed large datasets using **Python (Pandas, NumPy)**, ensuring accuracy in forecasting models
+- Created data visualizations and reports using **Matplotlib** and **Power BI** to support decision-making and drive policy
+recommendations.
 
-Work Flow
+**Work Flow**
 
 ![EEG Band Discovery](/assets/9.png)
 After we chose the most suitable model, The main goals are to suppress, cure, and prevent
 **Provide actionable plan**
-1. Surpress:
+**1. Surpress:**
    
    ![EEG Band Discovery](/assets/19.png)
    ![EEG Band Discovery](/assets/20.png)
-2. Cure:
+**2. Cure:**
    
    ![EEG Band Discovery](/assets/22.png)
-3. Prevent:
+**3. Prevent:**
    
    ![EEG Band Discovery](/assets/25.png)
    ![EEG Band Discovery](/assets/26.png)
@@ -42,6 +40,15 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
 #### This is the link to my colab
 [colab](https://colab.research.google.com/drive/1pC27AtvC3w-bJndHnob9Kl1XNFbhA7Yv?usp=sharing)
   
+**PDPA Platform in sport medicine and performance center (SMPC)** (April to May 2023)
+- Designed and developed a **PDPA compliance platform** to manage data privacy for a Sports Medicine and Performance Center
+- Built a prototype database system to manage consent, privacy notices, and data processing activities
+- Presented the project at **Sports Medicine and Exercise Science 2024 (#SMES24)**
+
+**Some parts of the prototype, tailored for users**
+**1. Informed Consent:**
+
+
 ### Work Experiences
 **Teacher Assistant for Data Science major @ Thammasat University**
 - August to December 2024
