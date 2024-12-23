@@ -49,10 +49,13 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
 **Some parts of the prototype, tailored for users**
 
 **1. Informed Consent:**
+
    ![EEG Band Discovery](/assets/PDPA platform/8.jpg)
 **2. Form:**
+
    ![EEG Band Discovery](/assets/PDPA platform/10.jpg)
 **3. Review and Confirm**
+
    ![EEG Band Discovery](/assets/PDPA platform/11.jpg)
 
 
