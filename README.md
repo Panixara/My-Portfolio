@@ -25,6 +25,7 @@ recommendations.
 ![EEG Band Discovery](/assets/9.png)
 After we chose the most suitable model, The main goals are to suppress, cure, and prevent
 **Provide actionable plan**
+
 **1. Surpress:**
    
    ![EEG Band Discovery](/assets/19.png)
@@ -46,6 +47,7 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
 - Presented the project at **Sports Medicine and Exercise Science 2024 (#SMES24)**
 
 **Some parts of the prototype, tailored for users**
+
 **1. Informed Consent:**
    ![EEG Band Discovery](/assets/PDPA platform/8.jpg)
 **2. Form:**
