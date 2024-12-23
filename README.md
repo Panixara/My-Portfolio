@@ -14,7 +14,7 @@ Data Science and Innovation Projects
 - **Other:** Strong presentation and teaching skills
 
 ### Projects
-##### **Analysis of drug Problem in Thailand** (Aug-Dec 2024)
+#### **Analysis of drug Problem in Thailand** (Aug-Dec 2024)
 - **Forecasted treatment needs** for rehabilitation centers by analyzing nationwide drug-related data for 2026 capacity planning
 - Cleaned, transformed, and analyzed large datasets using **Python (Pandas, NumPy)**, ensuring accuracy in forecasting models
 - Created data visualizations and reports using **Matplotlib** and **Power BI** to support decision-making and drive policy
@@ -38,12 +38,12 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
    **3. Prevent:**
    
    ![EEG Band Discovery](/assets/25.png)
-   ![EEG Band Discovery](/assets/26.png)
+   [EEG Band Discovery](/assets/26.png)
 
-#### This is the link to my colab
+##### This is the link to my colab
 [colab](https://colab.research.google.com/drive/1pC27AtvC3w-bJndHnob9Kl1XNFbhA7Yv?usp=sharing)
   
-**PDPA Platform in sport medicine and performance center (SMPC)** (April to May 2023)
+#### **PDPA Platform in sport medicine and performance center (SMPC)** (April to May 2023)
 - Designed and developed a **PDPA compliance platform** to manage data privacy for a Sports Medicine and Performance Center
 - Built a prototype database system to manage consent, privacy notices, and data processing activities
 - Presented the project at **Sports Medicine and Exercise Science 2024 (#SMES24)**
