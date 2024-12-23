@@ -64,7 +64,22 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
 
    **Some parts of the prototype, tailored for developers**
 
-   ![EEG Band Discovery](/assets/PDPA platform/แก้แล้ว.jpg)
+  **1. Overall**
+
+  ![EEG Band Discovery](/assets/PDPA platform/แก้แล้ว.jpg)
+
+  **2. Manage User Consents**
+
+  ![EEG Band Discovery](/assets/PDPA platform/17.jpg)
+  ![EEG Band Discovery](/assets/PDPA platform/19.jpg)
+
+  **3. Summary Dashboard**
+
+  ![EEG Band Discovery](/assets/PDPA platform/21.jpg)
+
+  **SMES#24 Experience**
+
+  ![EEG Band Discovery](/assets/PDPA platform/PDPA overall.jpg)
 
 ### Work Experiences
 **Teacher Assistant for Data Science major @ Thammasat University**
