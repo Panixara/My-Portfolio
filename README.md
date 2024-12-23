@@ -38,7 +38,7 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
    **3. Prevent:**
    
    ![EEG Band Discovery](/assets/25.png)
-   [EEG Band Discovery](/assets/26.png)
+   ![EEG Band Discovery](/assets/26.png)
 
 ##### This is the link to my colab
 ##### [colab](https://colab.research.google.com/drive/1pC27AtvC3w-bJndHnob9Kl1XNFbhA7Yv?usp=sharing)
