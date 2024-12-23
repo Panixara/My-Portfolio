@@ -14,7 +14,7 @@ Data Science and Innovation Projects
 - **Other:** Strong presentation and teaching skills
 
 ### Projects
-**Analysis of drug Problem in Thailand** (Aug-Dec 2024)
+##### **Analysis of drug Problem in Thailand** (Aug-Dec 2024)
 - **Forecasted treatment needs** for rehabilitation centers by analyzing nationwide drug-related data for 2026 capacity planning
 - Cleaned, transformed, and analyzed large datasets using **Python (Pandas, NumPy)**, ensuring accuracy in forecasting models
 - Created data visualizations and reports using **Matplotlib** and **Power BI** to support decision-making and drive policy
@@ -80,6 +80,8 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
   **SMES#24 Experience**
 
   ![EEG Band Discovery](/assets/PDPA platform/PDPA overall.jpg)
+
+
 
 ### Work Experiences
 **Teacher Assistant for Data Science major @ Thammasat University**
