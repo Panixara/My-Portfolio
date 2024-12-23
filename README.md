@@ -5,7 +5,7 @@ Data Science and Innovation Projects
 - B.Sc. Data Science and Innovation (2022-2026)
 - Current G.P.A. - 3.61 
 
-### Skills
+## Skills
 - **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Regex), SQL
 - **Data Visualization:** Matplotlib, Tableau, Seaborn, Power BI, Looker
 - **Data Handling:** Proficient in VS Code, Google Colab, Jupyter Notebook, Excel
@@ -13,7 +13,7 @@ Data Science and Innovation Projects
 - **Web Scraping:** Beautiful Soup, Selenium
 - **Other:** Strong presentation and teaching skills
 
-### Projects
+## Projects
 #### **Analysis of drug Problem in Thailand** (Aug-Dec 2024)
 - **Forecasted treatment needs** for rehabilitation centers by analyzing nationwide drug-related data for 2026 capacity planning
 - Cleaned, transformed, and analyzed large datasets using **Python (Pandas, NumPy)**, ensuring accuracy in forecasting models
@@ -40,9 +40,9 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
    ![EEG Band Discovery](/assets/25.png)
    ![EEG Band Discovery](/assets/26.png)
 
-##### [This is the link to my colab](https://colab.research.google.com/drive/1pC27AtvC3w-bJndHnob9Kl1XNFbhA7Yv?usp=sharing)
+#### [This is the link to my colab](https://colab.research.google.com/drive/1pC27AtvC3w-bJndHnob9Kl1XNFbhA7Yv?usp=sharing)
   
-#### **PDPA Platform in sport medicine and performance center (SMPC)** (April to May 2023)
+### **PDPA Platform in sport medicine and performance center (SMPC)** (April to May 2023)
 - Designed and developed a **PDPA compliance platform** to manage data privacy for a Sports Medicine and Performance Center
 - Built a prototype database system to manage consent, privacy notices, and data processing activities
 - Presented the project at **Sports Medicine and Exercise Science 2024 (#SMES24)**
