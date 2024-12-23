@@ -40,8 +40,7 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
    ![EEG Band Discovery](/assets/25.png)
    ![EEG Band Discovery](/assets/26.png)
 
-##### This is the link to my colab
-##### [colab](https://colab.research.google.com/drive/1pC27AtvC3w-bJndHnob9Kl1XNFbhA7Yv?usp=sharing)
+##### [This is the link to my colab](https://colab.research.google.com/drive/1pC27AtvC3w-bJndHnob9Kl1XNFbhA7Yv?usp=sharing)
   
 #### **PDPA Platform in sport medicine and performance center (SMPC)** (April to May 2023)
 - Designed and developed a **PDPA compliance platform** to manage data privacy for a Sports Medicine and Performance Center
