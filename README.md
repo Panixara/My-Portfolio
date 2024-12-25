@@ -57,26 +57,26 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
 
    ![EEG Band Discovery](/assets/PDPA platform/10.jpg)
    
-   **3. Review and Confirm**
+   **3. Review and Confirm:**
 
    ![EEG Band Discovery](/assets/PDPA platform/11.jpg)
 
 **Some parts of the prototype, tailored for developers**
 
-  **1. Overall**
+  **1. Overall:**
 
   ![EEG Band Discovery](/assets/PDPA platform/แก้แล้ว.jpg)
 
-  **2. Manage User Consents**
+  **2. Manage User Consents:**
 
   ![EEG Band Discovery](/assets/PDPA platform/17.jpg)
   ![EEG Band Discovery](/assets/PDPA platform/19.jpg)
 
-  **3. Summary Dashboard**
+  **3. Summary Dashboard:**
 
   ![EEG Band Discovery](/assets/PDPA platform/21.jpg)
 
-  **SMES#24 Experience**
+  **SMES#24 Experience:**
 
   ![EEG Band Discovery](/assets/PDPA platform/PDPA overall.jpg)
 
@@ -88,24 +88,25 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
 
 **Some parts of the work**
 
-  **1. Survey Result**
+  **1. Survey Result:**
   
   ![EEG Band Discovery](/assets/Pentor/2.jpg)
   ![EEG Band Discovery](/assets/Pentor/3.jpg)
 
-  **2. Solutions**
+  **2. Solutions:**
   
   ![EEG Band Discovery](/assets/Pentor/9.jpg)
   ![EEG Band Discovery](/assets/Pentor/10.jpg)
   ![EEG Band Discovery](/assets/Pentor/13.jpg)
   ![EEG Band Discovery](/assets/Pentor/15.jpg)
 
-  **3. Campaign**
+  **3. Campaign:**
   
   ![EEG Band Discovery](/assets/Pentor/17.jpg)
   ![EEG Band Discovery](/assets/Pentor/18.jpg)
 
-  **4. Action PLan**
+  **4. Action Plan:**
+  
   ![EEG Band Discovery](/assets/Pentor/20.jpg)
   ![EEG Band Discovery](/assets/Pentor/22.jpg)
   
