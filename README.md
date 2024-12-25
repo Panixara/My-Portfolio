@@ -14,7 +14,7 @@ Data Science and Innovation Projects
 - **Other:** Strong presentation and teaching skills
 
 ## Projects
-#### Analysis of drug Problem in Thailand (Aug-Dec 2024)
+### Analysis of drug Problem in Thailand (Aug-Dec 2024)
 - **Forecasted treatment needs** for rehabilitation centers by analyzing nationwide drug-related data for 2026 capacity planning
 - Cleaned, transformed, and analyzed large datasets using **Python (Pandas, NumPy)**, ensuring accuracy in forecasting models
 - Created data visualizations and reports using **Matplotlib** and **Power BI** to support decision-making and drive policy
@@ -61,7 +61,7 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
 
    ![EEG Band Discovery](/assets/PDPA platform/11.jpg)
 
-   **Some parts of the prototype, tailored for developers**
+**Some parts of the prototype, tailored for developers**
 
   **1. Overall**
 
@@ -86,8 +86,26 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
 - Analyzed survey data using **Matplotlib** to identify trends and formulated an **actionable, data-driven marketing strategy**
 - Presented the marketing plan to Pentor Drink executives, receiving valuable feedback to refine the approach
 
+  **1. Survey Result**
   
+  ![EEG Band Discovery](/assets/Pentor/2.jpg)
+  ![EEG Band Discovery](/assets/Pentor/3.jpg)
 
+  **2. Solutions**
+  
+  ![EEG Band Discovery](/assets/Pentor/9.jpg)
+  ![EEG Band Discovery](/assets/Pentor/10.jpg)
+  ![EEG Band Discovery](/assets/Pentor/13.jpg)
+  ![EEG Band Discovery](/assets/Pentor/15.jpg)
+
+  **3. Campaign**
+  
+  ![EEG Band Discovery](/assets/Pentor/17.jpg)
+  ![EEG Band Discovery](/assets/Pentor/18.jpg)
+
+  **4. Action PLan**
+  ![EEG Band Discovery](/assets/Pentor/20.jpg)
+  
 ## Work Experiences
 ### **Teacher Assistant for Data Science major @ Thammasat University**
 - August to December 2024
