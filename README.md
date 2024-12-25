@@ -14,7 +14,7 @@ Data Science and Innovation Projects
 - **Other:** Strong presentation and teaching skills
 
 ## Projects
-### Analysis of drug Problem in Thailand (Aug-Dec 2024)
+### Analysis of drug Problem in Thailand (Aug to Dec 2024)
 - **Forecasted treatment needs** for rehabilitation centers by analyzing nationwide drug-related data for 2026 capacity planning
 - Cleaned, transformed, and analyzed large datasets using **Python (Pandas, NumPy)**, ensuring accuracy in forecasting models
 - Created data visualizations and reports using **Matplotlib** and **Power BI** to support decision-making and drive policy
@@ -111,15 +111,13 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
   ![EEG Band Discovery](/assets/Pentor/22.jpg)
   
 ## Work Experiences
-### **Teacher Assistant for Data Science major @ Thammasat University**
-- August to December 2024
-- Provided one-on-one guidance to students, helping them understand assignments, improve performance
+### Teacher Assistant for Data Science major @ Thammasat University (Aug to Dec 2024)
+- Provided guidance to students, helping them understand assignments, improve performance
 - Collaborated with the professor and students to ensure consistency in course delivery and assessment criteria
 - Reviewed and debugged student code to ensure accuracy and adherence to best practices
 
-### **Alumni LinkedIn group advisor**
-- October 2024
-- Recommend effective features for creating and managing a LinkedIn group to connect alumni
-- Advising on data scraping techniques to gather alumni information, such as career progression, educational background
-- develop instructional content as written guides and videos
+### Alumni LinkedIn group advisor (Nov to Oct 2024)
+- Recommended LinkedIn Helper2 for managing alumni LinkedIn groups, facilitating professional connections
+- Advising on data scraping techniques to gather alumni information, such as career progression, educational background etc.
+- Created instructional content (written guides and videos) to support teachers in managing LinkedIn groups
 
