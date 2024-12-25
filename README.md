@@ -14,7 +14,7 @@ Data Science and Innovation Projects
 - **Other:** Strong presentation and teaching skills
 
 ## Projects
-#### **Analysis of drug Problem in Thailand** (Aug-Dec 2024)
+#### Analysis of drug Problem in Thailand (Aug-Dec 2024)
 - **Forecasted treatment needs** for rehabilitation centers by analyzing nationwide drug-related data for 2026 capacity planning
 - Cleaned, transformed, and analyzed large datasets using **Python (Pandas, NumPy)**, ensuring accuracy in forecasting models
 - Created data visualizations and reports using **Matplotlib** and **Power BI** to support decision-making and drive policy
@@ -42,12 +42,12 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
 
 #### [This is the link to my colab](https://colab.research.google.com/drive/1pC27AtvC3w-bJndHnob9Kl1XNFbhA7Yv?usp=sharing)
   
-### **PDPA Platform in sport medicine and performance center (SMPC)** (April to May 2023)
+### PDPA Platform in sport medicine and performance center (SMPC) (Apr to May 2023)
 - Designed and developed a **PDPA compliance platform** to manage data privacy for a Sports Medicine and Performance Center
 - Built a prototype database system to manage consent, privacy notices, and data processing activities
 - Presented the project at **Sports Medicine and Exercise Science 2024 (#SMES24)**
 
-   **Some parts of the prototype, tailored for users**
+**Some parts of the prototype, tailored for users**
 
    **1. Informed Consent:**
 
@@ -81,15 +81,21 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
   ![EEG Band Discovery](/assets/PDPA platform/PDPA overall.jpg)
 
 
+### Marketing plan for Pentor Drink (Mar to Apr 2023)
+- Conducted a **survey of 109 participants** to analyze consumer behavior, age range, and factors influencing purchases
+- Analyzed survey data using **Matplotlib** to identify trends and formulated an **actionable, data-driven marketing strategy**
+- Presented the marketing plan to Pentor Drink executives, receiving valuable feedback to refine the approach
 
-### Work Experiences
-**Teacher Assistant for Data Science major @ Thammasat University**
+  
+
+## Work Experiences
+### **Teacher Assistant for Data Science major @ Thammasat University**
 - August to December 2024
 - Provided one-on-one guidance to students, helping them understand assignments, improve performance
 - Collaborated with the professor and students to ensure consistency in course delivery and assessment criteria
 - Reviewed and debugged student code to ensure accuracy and adherence to best practices
 
-**Alumni LinkedIn group advisor**
+### **Alumni LinkedIn group advisor**
 - October 2024
 - Recommend effective features for creating and managing a LinkedIn group to connect alumni
 - Advising on data scraping techniques to gather alumni information, such as career progression, educational background
