@@ -107,6 +107,7 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
 
   **4. Action PLan**
   ![EEG Band Discovery](/assets/Pentor/20.jpg)
+  ![EEG Band Discovery](/assets/Pentor/22.jpg)
   
 ## Work Experiences
 ### **Teacher Assistant for Data Science major @ Thammasat University**
