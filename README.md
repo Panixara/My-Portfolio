@@ -86,6 +86,8 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
 - Analyzed survey data using **Matplotlib** to identify trends and formulated an **actionable, data-driven marketing strategy**
 - Presented the marketing plan to Pentor Drink executives, receiving valuable feedback to refine the approach
 
+**Some parts of the work**
+
   **1. Survey Result**
   
   ![EEG Band Discovery](/assets/Pentor/2.jpg)
