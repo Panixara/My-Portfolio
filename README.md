@@ -3,7 +3,7 @@ Data Science and Innovation Projects
 
 ## Education
 - B.Sc. Data Science and Innovation (2022-2026)
-- Current G.P.A. - 3.63
+- Current G.P.A. - 3.66
 
 ## Skills
 - **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Regex), SQL
