@@ -42,7 +42,7 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
 
 #### [This is the link to my colab](https://colab.research.google.com/drive/1pC27AtvC3w-bJndHnob9Kl1XNFbhA7Yv?usp=sharing)
 
-### PDPA Platform in sport medicine and performance center (SMPC) (Apr to May 2023)
+### PPDPA Platform in sport medicine and performance center (SMPC) (Apr to May 2023)
 - Designed and developed a **PDPA compliance platform** to manage data privacy for a Sports Medicine and Performance Center
 - Built a prototype database system to manage consent, privacy notices, and data processing activities
 - Presented the project at **Sports Medicine and Exercise Science 2024 (#SMES24)**
@@ -121,3 +121,15 @@ After we chose the most suitable model, The main goals are to suppress, cure, an
 - Advising on data scraping techniques to gather alumni information, such as career progression, educational background etc.
 - Created instructional content (written guides and videos) to support teachers in managing LinkedIn groups
 
+## Licenses & certifications
+### British Airways - Data Science Job Simulation
+- Completed a simulation focussing on how data science is a critical component of British Airways success
+- Scraped and analysed customer review data to uncover findings
+- Built a predictive model to understand factors that influence buying
+behaviour
+
+### Deloitte Australia Data Analytics Job Simulation
+- Completed a Deloitte job simulation involving data analysis and forensic
+technology
+- Created a data dashboard using Tableau
+- Used Excel to classify data and draw business conclusions
